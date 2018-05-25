@@ -38,10 +38,10 @@ import numpy as np
 # x = np.fromiter(it, dtype = float) 
 # print (x)
 
-# list = np.arange(5,78,9, dtype = float)
+# list = np.arange(5,78,9, dtype = float) # makes a list of integers within start(5) and end value(78) seperated with distance(9)
 # print (list)
 
-# p = np.linspace(10,30, 10, endpoint = False,retstep = True)
+# p = np.linspace(10,30, 10, endpoint = False,retstep = True) #make array of 10 digits with equal spacing, retstep print the step size used
 # print (p)
 
 # p = np.logspace(1.0,2.0, num=10)
